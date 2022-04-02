@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.first h1{
+    font-weight: normal;
+    font-size: 50px;
+}
+
+#soon {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.second h1{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.second p {
+    font-size: 21px;
+    color: gray;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+}
